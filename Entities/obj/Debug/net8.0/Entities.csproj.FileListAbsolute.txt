@@ -1,0 +1,22 @@
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Entities\obj\Debug\net8.0\ref\Entities.dll

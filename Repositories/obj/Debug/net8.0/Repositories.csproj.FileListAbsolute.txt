@@ -1,0 +1,34 @@
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\bin\Debug\net8.0\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\bin\Debug\net8.0\Entities.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\bin\Debug\net8.0\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\bin\Debug\net8.0\Entities.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Repositories\obj\Debug\net8.0\ref\Repositories.dll

@@ -1,0 +1,34 @@
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\bin\Debug\net8.0\Services.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\bin\Debug\net8.0\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\bin\Debug\net8.0\Repositories.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\bin\Debug\net8.0\Entities.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\bin\Debug\net8.0\Repositories.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\obj\Debug\net8.0\Services.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\bin\Debug\net8.0\Services.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\bin\Debug\net8.0\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\bin\Debug\net8.0\Repositories.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\bin\Debug\net8.0\Entities.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\bin\Debug\net8.0\Repositories.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\obj\Debug\net8.0\Services.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Services\obj\Debug\net8.0\ref\Services.dll

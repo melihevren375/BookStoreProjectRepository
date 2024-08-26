@@ -1,0 +1,10 @@
+2024-08-02 12:50:58.7568 ERROR Bişeyler ters gitti. Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "HEAD api/books" for actions - Presentation.Controllers.BooksController.GetAllBooksAsyncWithHead (Presentation),Presentation.Controllers.PublishersController.GetAllPublishersAsyncWithHead (Presentation). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-08-02 12:56:08.0442 INFO {"ModelName":"OnActionExecuting","CreateAt":null,"Action":"CreateAuthor","Controller":"Authors"}
+2024-08-02 12:56:24.0947 INFO {"ModelName":"OnActionExecuting","CreateAt":null,"Action":"GetAllAuthors","Controller":"Authors"}
+2024-08-02 12:56:56.9401 INFO {"ModelName":"OnActionExecuting","CreateAt":null,"Action":"CreateCategory","Controller":"Categories"}

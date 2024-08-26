@@ -1,0 +1,518 @@
+2024-07-16 14:20:40.8692 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:20:40.9014 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:20:40.9147 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:20:40.9280 Info Configuration initialized.
+2024-07-16 14:26:00.3991 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:26:00.4369 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:26:00.4523 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:26:00.4758 Info Configuration initialized.
+2024-07-16 14:27:10.9433 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:27:10.9725 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:27:10.9857 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:27:11.0016 Info Configuration initialized.
+2024-07-16 14:29:13.6229 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:29:13.6606 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:29:13.6829 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:29:13.7123 Info Configuration initialized.
+2024-07-16 14:33:35.9596 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:33:35.9842 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:33:35.9954 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:33:35.9954 Info Configuration initialized.
+2024-07-16 14:37:08.0874 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:37:08.1493 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:37:08.1738 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:37:08.2009 Info Configuration initialized.
+2024-07-16 14:39:39.5000 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:39:39.5329 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:39:39.5528 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:39:39.5738 Info Configuration initialized.
+2024-07-16 14:42:32.9093 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:42:32.9345 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:42:32.9446 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:42:32.9446 Info Configuration initialized.
+2024-07-16 14:43:08.7170 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:43:08.7483 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:43:08.7665 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:43:08.7897 Info Configuration initialized.
+2024-07-16 14:45:00.3681 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:45:00.4472 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:45:00.4670 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:45:00.5058 Info Configuration initialized.
+2024-07-16 14:46:51.0385 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:46:51.0849 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:46:51.1076 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:46:51.1265 Info Configuration initialized.
+2024-07-16 14:47:35.5335 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-16 14:47:35.5706 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-16 14:47:35.5706 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\WebApplication1\nlog.config
+2024-07-16 14:47:35.6070 Info Configuration initialized.
+2024-07-22 12:44:18.8707 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-22 12:44:19.0523 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-22 12:44:19.0739 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-07-22 12:44:19.1005 Info Configuration initialized.
+2024-07-22 14:10:34.2959 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-22 14:10:34.3383 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-22 14:10:34.3540 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-07-22 14:10:34.3696 Info Configuration initialized.
+2024-08-02 12:24:33.2960 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:24:33.3132 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:24:33.3132 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:24:33.3331 Info Configuration initialized.
+2024-08-02 12:24:34.7965 Info AppDomain Shutting down. LogFactory closing...
+2024-08-02 12:24:34.7965 Info LogFactory has been closed.
+2024-08-02 12:24:48.5269 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:24:48.5269 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:24:48.5465 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:24:48.5465 Info Configuration initialized.
+2024-08-02 12:24:50.0762 Info AppDomain Shutting down. LogFactory closing...
+2024-08-02 12:24:50.0762 Info LogFactory has been closed.
+2024-08-02 12:25:36.6583 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:25:36.6865 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:25:36.6979 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:25:36.7131 Info Configuration initialized.
+2024-08-02 12:27:13.3263 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:27:13.3492 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:27:13.3629 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:27:13.3776 Info Configuration initialized.
+2024-08-02 12:33:22.0532 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:33:22.0854 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:33:22.1041 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:33:22.1251 Info Configuration initialized.
+2024-08-02 12:34:01.2157 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:34:01.2449 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:34:01.2449 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:34:01.2845 Info Configuration initialized.
+2024-08-02 12:34:28.8574 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:34:28.8884 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:34:28.9078 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:34:28.9278 Info Configuration initialized.
+2024-08-02 12:38:31.0715 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:38:31.1022 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:38:31.1142 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:38:31.1424 Info Configuration initialized.
+2024-08-02 12:40:30.4285 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:40:30.4586 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:40:30.4813 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:40:30.5139 Info Configuration initialized.
+2024-08-02 12:43:44.9567 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:43:44.9961 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:43:45.0108 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:43:45.0326 Info Configuration initialized.
+2024-08-02 12:48:16.8796 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:48:16.9335 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:48:16.9335 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:48:16.9667 Info Configuration initialized.
+2024-08-02 12:50:55.9175 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:50:55.9444 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:50:55.9570 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:50:55.9710 Info Configuration initialized.
+2024-08-02 12:55:34.8199 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-02 12:55:34.8533 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-02 12:55:34.8786 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-02 12:55:34.9017 Info Configuration initialized.
+2024-08-05 08:28:09.8990 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 08:28:09.9349 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 08:28:09.9487 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 08:28:09.9650 Info Configuration initialized.
+2024-08-05 08:29:23.0400 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 08:29:23.0737 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 08:29:23.1020 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 08:29:23.1206 Info Configuration initialized.
+2024-08-05 08:31:07.2119 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 08:31:07.2579 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 08:31:07.2814 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 08:31:07.3031 Info Configuration initialized.
+2024-08-05 08:33:45.0056 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 08:33:45.1059 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 08:33:45.1731 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 08:33:45.2465 Info Configuration initialized.
+2024-08-05 08:35:41.0523 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 08:35:41.0823 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 08:35:41.1033 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 08:35:41.1272 Info Configuration initialized.
+2024-08-05 08:47:39.6811 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 08:47:39.7064 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 08:47:39.7163 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 08:47:39.7163 Info Configuration initialized.
+2024-08-05 08:49:13.4573 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 08:49:13.4987 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 08:49:13.5170 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 08:49:13.5387 Info Configuration initialized.
+2024-08-05 08:51:30.8987 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 08:51:30.9593 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 08:51:30.9735 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 08:51:31.0002 Info Configuration initialized.
+2024-08-05 08:52:49.5156 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 08:52:49.5540 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 08:52:49.5718 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 08:52:49.5906 Info Configuration initialized.
+2024-08-05 09:01:52.1347 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:01:52.1755 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:01:52.1974 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:01:52.2197 Info Configuration initialized.
+2024-08-05 09:02:29.7543 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:02:29.8072 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:02:29.8765 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:02:29.9108 Info Configuration initialized.
+2024-08-05 09:02:55.8143 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:02:55.8431 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:02:55.8692 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:02:55.9093 Info Configuration initialized.
+2024-08-05 09:03:22.0167 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:03:22.0549 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:03:22.0734 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:03:22.0903 Info Configuration initialized.
+2024-08-05 09:06:50.6312 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:06:50.6670 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:06:50.6803 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:06:50.6989 Info Configuration initialized.
+2024-08-05 09:14:47.9832 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:14:48.0137 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:14:48.0343 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:14:48.0557 Info Configuration initialized.
+2024-08-05 09:20:09.3543 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:20:09.3823 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:20:09.3823 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:20:09.4232 Info Configuration initialized.
+2024-08-05 09:26:11.6348 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:26:11.6709 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:26:11.6887 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:26:11.7070 Info Configuration initialized.
+2024-08-05 09:27:29.4697 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:27:29.5122 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:27:29.5319 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:27:29.5503 Info Configuration initialized.
+2024-08-05 09:28:47.2345 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:28:47.2725 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:28:47.2951 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:28:47.3205 Info Configuration initialized.
+2024-08-05 09:31:19.5142 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:31:19.5671 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:31:19.5908 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:31:19.6188 Info Configuration initialized.
+2024-08-05 09:36:10.9756 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 09:36:11.0127 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 09:36:11.0283 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 09:36:11.0471 Info Configuration initialized.
+2024-08-05 10:35:48.8452 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 10:35:48.8782 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 10:35:48.8929 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 10:35:48.9082 Info Configuration initialized.
+2024-08-05 10:41:26.8834 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 10:41:26.9230 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 10:41:26.9380 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 10:41:26.9528 Info Configuration initialized.
+2024-08-05 10:48:16.5418 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 10:48:16.5640 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 10:48:16.5809 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 10:48:16.6048 Info Configuration initialized.
+2024-08-05 10:48:59.8496 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 10:48:59.8730 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 10:48:59.8884 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 10:48:59.9065 Info Configuration initialized.
+2024-08-05 10:50:56.1919 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 10:50:56.2217 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 10:50:56.2350 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 10:50:56.2573 Info Configuration initialized.
+2024-08-05 10:53:37.4833 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 10:53:37.5267 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 10:53:37.5439 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 10:53:37.5632 Info Configuration initialized.
+2024-08-05 10:55:27.4338 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 10:55:27.4951 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 10:55:27.5255 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 10:55:27.5524 Info Configuration initialized.
+2024-08-05 10:55:59.6428 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 10:55:59.6842 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 10:55:59.7048 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 10:55:59.7296 Info Configuration initialized.
+2024-08-05 10:56:24.1511 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 10:56:24.1863 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 10:56:24.2052 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 10:56:24.2220 Info Configuration initialized.
+2024-08-05 10:56:54.2542 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 10:56:54.2976 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 10:56:54.3190 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 10:56:54.3465 Info Configuration initialized.
+2024-08-05 10:57:38.1226 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 10:57:38.1542 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 10:57:38.1720 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 10:57:38.1945 Info Configuration initialized.
+2024-08-05 11:10:42.6312 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 11:10:42.6699 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 11:10:42.6893 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 11:10:42.7076 Info Configuration initialized.
+2024-08-05 11:13:02.0614 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 11:13:02.1033 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 11:13:02.1202 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 11:13:02.1467 Info Configuration initialized.
+2024-08-05 11:13:47.2850 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 11:13:47.3478 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 11:13:47.3737 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 11:13:47.3984 Info Configuration initialized.
+2024-08-05 11:14:47.9819 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 11:14:48.0135 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 11:14:48.0379 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 11:14:48.0683 Info Configuration initialized.
+2024-08-05 11:16:44.6314 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 11:16:44.6675 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 11:16:44.6814 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 11:16:44.6989 Info Configuration initialized.
+2024-08-05 11:18:35.4911 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 11:18:35.5136 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 11:18:35.5244 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 11:18:35.5374 Info Configuration initialized.
+2024-08-05 11:19:19.0295 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 11:19:19.1522 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 11:19:19.1942 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-05 11:19:19.2760 Info Configuration initialized.
+2024-08-06 14:24:19.7060 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-06 14:24:19.8485 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-06 14:24:19.8722 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-06 14:24:19.9245 Info Configuration initialized.
+2024-08-06 14:25:38.5758 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-06 14:25:38.6087 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-06 14:25:38.6230 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-06 14:25:38.6385 Info Configuration initialized.
+2024-08-06 14:29:13.5028 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-06 14:29:13.5408 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-06 14:29:13.5578 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-06 14:29:13.5762 Info Configuration initialized.
+2024-08-06 14:34:00.5688 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-06 14:34:00.6348 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-06 14:34:00.6629 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-06 14:34:00.6912 Info Configuration initialized.
+2024-08-06 14:41:26.5513 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-06 14:41:26.5858 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-06 14:41:26.5996 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-06 14:41:26.6147 Info Configuration initialized.
+2024-08-07 07:52:12.2272 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 07:52:12.2615 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 07:52:12.2804 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-07 07:52:12.3002 Info Configuration initialized.
+2024-08-07 07:54:21.9418 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 07:54:21.9862 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 07:54:22.0041 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-07 07:54:22.0235 Info Configuration initialized.
+2024-08-07 08:24:44.4172 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 08:24:44.4659 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 08:24:44.4840 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-07 08:24:44.5070 Info Configuration initialized.
+2024-08-07 08:27:25.3375 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 08:27:25.3722 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 08:27:25.3862 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-07 08:27:25.4038 Info Configuration initialized.
+2024-08-07 08:27:34.2578 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 08:27:34.2949 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 08:27:34.3132 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-07 08:27:34.3339 Info Configuration initialized.
+2024-08-07 08:28:54.4009 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 08:28:54.4476 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 08:28:54.4773 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-07 08:28:54.5087 Info Configuration initialized.
+2024-08-07 08:29:56.0306 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 08:29:56.0653 Info LogFactory has been closed.
+2024-08-07 08:34:35.4777 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 08:34:35.5319 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 08:34:35.5986 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-07 08:34:35.6835 Info Configuration initialized.
+2024-08-12 09:31:32.5060 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 09:31:32.5194 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 09:31:32.5194 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 09:31:32.5343 Info Configuration initialized.
+2024-08-12 09:31:33.8809 Info AppDomain Shutting down. LogFactory closing...
+2024-08-12 09:31:33.8890 Info LogFactory has been closed.
+2024-08-12 09:31:42.5366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 09:31:42.5489 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 09:31:42.5489 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 09:31:42.5658 Info Configuration initialized.
+2024-08-12 09:31:43.9943 Info AppDomain Shutting down. LogFactory closing...
+2024-08-12 09:31:44.0002 Info LogFactory has been closed.
+2024-08-12 09:32:06.2122 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 09:32:06.2569 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 09:32:06.2812 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 09:32:06.3079 Info Configuration initialized.
+2024-08-12 09:39:14.1912 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 09:39:14.2318 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 09:39:14.2492 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 09:39:14.2644 Info Configuration initialized.
+2024-08-12 09:45:38.0149 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 09:45:38.0560 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 09:45:38.0688 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 09:45:38.0866 Info Configuration initialized.
+2024-08-12 10:07:24.8985 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 10:07:24.9580 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 10:07:24.9834 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 10:07:24.9997 Info Configuration initialized.
+2024-08-12 10:23:08.0905 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 10:23:08.1150 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 10:23:08.1279 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 10:23:08.1431 Info Configuration initialized.
+2024-08-12 10:25:04.2074 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 10:25:04.2464 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 10:25:04.2669 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 10:25:04.2940 Info Configuration initialized.
+2024-08-12 10:41:47.9404 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 10:41:47.9696 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 10:41:47.9849 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 10:41:48.0045 Info Configuration initialized.
+2024-08-12 10:43:25.3933 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 10:43:25.4488 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 10:43:25.4760 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 10:43:25.5044 Info Configuration initialized.
+2024-08-12 10:47:22.6748 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 10:47:22.7031 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 10:47:22.7222 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 10:47:22.7428 Info Configuration initialized.
+2024-08-12 10:48:54.6128 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 10:48:54.6568 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 10:48:54.6746 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 10:48:54.6962 Info Configuration initialized.
+2024-08-12 10:49:51.8551 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-12 10:49:51.8836 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 10:49:51.9012 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-12 10:49:51.9217 Info Configuration initialized.
+2024-08-13 10:05:19.0434 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 10:05:19.1004 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 10:05:19.1226 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-13 10:05:19.1517 Info Configuration initialized.
+2024-08-13 10:07:41.3051 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 10:07:41.3467 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 10:07:41.3671 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-13 10:07:41.3837 Info Configuration initialized.
+2024-08-13 10:08:05.0485 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 10:08:05.0839 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 10:08:05.1011 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-13 10:08:05.1197 Info Configuration initialized.
+2024-08-13 10:08:52.9687 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 10:08:52.9954 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 10:08:53.0073 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-13 10:08:53.0264 Info Configuration initialized.
+2024-08-13 10:09:24.5319 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 10:09:24.5594 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 10:09:24.5776 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-13 10:09:24.5959 Info Configuration initialized.
+2024-08-13 10:10:20.3049 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 10:10:20.3466 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 10:10:20.3672 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-13 10:10:20.3933 Info Configuration initialized.
+2024-08-13 10:20:19.5459 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 10:20:19.5742 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 10:20:19.5889 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-13 10:20:19.6036 Info Configuration initialized.
+2024-08-24 10:41:33.9702 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 10:41:33.9841 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 10:41:33.9841 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 10:41:33.9990 Info Configuration initialized.
+2024-08-24 10:41:35.5219 Info AppDomain Shutting down. LogFactory closing...
+2024-08-24 10:41:35.5301 Info LogFactory has been closed.
+2024-08-24 10:41:52.9267 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 10:41:52.9388 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 10:41:52.9388 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 10:41:52.9540 Info Configuration initialized.
+2024-08-24 10:41:54.0620 Info AppDomain Shutting down. LogFactory closing...
+2024-08-24 10:41:54.0620 Info LogFactory has been closed.
+2024-08-24 11:36:04.6097 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 11:36:04.6958 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 11:36:04.7167 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 11:36:04.7452 Info Configuration initialized.
+2024-08-24 11:37:58.8022 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 11:37:58.8534 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 11:37:58.8686 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 11:37:58.8858 Info Configuration initialized.
+2024-08-24 11:42:05.0122 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 11:42:05.0681 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 11:42:05.0855 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 11:42:05.1012 Info Configuration initialized.
+2024-08-24 11:43:54.1936 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 11:43:54.2305 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 11:43:54.2558 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 11:43:54.2764 Info Configuration initialized.
+2024-08-24 11:46:43.0007 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 11:46:43.0341 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 11:46:43.0466 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 11:46:43.0615 Info Configuration initialized.
+2024-08-24 11:49:18.7774 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 11:49:18.8118 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 11:49:18.8237 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 11:49:18.8372 Info Configuration initialized.
+2024-08-24 11:51:32.1406 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 11:51:32.1815 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 11:51:32.2223 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 11:51:32.2539 Info Configuration initialized.
+2024-08-24 11:57:00.4083 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 11:57:00.4578 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 11:57:00.4807 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 11:57:00.5082 Info Configuration initialized.
+2024-08-24 12:00:02.5038 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 12:00:02.5421 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 12:00:02.5609 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 12:00:02.5825 Info Configuration initialized.
+2024-08-24 12:31:51.8082 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 12:31:51.8408 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 12:31:51.8561 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 12:31:51.8819 Info Configuration initialized.
+2024-08-24 14:29:43.1764 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 14:29:43.2246 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 14:29:43.2455 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 14:29:43.2705 Info Configuration initialized.
+2024-08-24 14:32:13.0815 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 14:32:13.1133 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 14:32:13.1262 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 14:32:13.1439 Info Configuration initialized.
+2024-08-24 14:32:52.9697 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 14:32:53.0271 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 14:32:53.0505 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 14:32:53.0829 Info Configuration initialized.
+2024-08-24 14:37:07.8455 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 14:37:07.8922 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 14:37:07.8922 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 14:37:07.9384 Info Configuration initialized.
+2024-08-24 14:48:20.8253 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 14:48:20.8502 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 14:48:20.8602 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 14:48:20.8739 Info Configuration initialized.
+2024-08-24 14:50:04.5027 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 14:50:04.5637 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 14:50:04.5813 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 14:50:04.6011 Info Configuration initialized.
+2024-08-24 14:51:31.8757 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 14:51:31.9034 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 14:51:31.9171 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 14:51:31.9171 Info Configuration initialized.
+2024-08-24 14:56:23.5727 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 14:56:23.6084 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 14:56:23.6244 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 14:56:23.6244 Info Configuration initialized.
+2024-08-24 14:57:25.3705 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 14:57:25.4156 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 14:57:25.4372 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 14:57:25.4646 Info Configuration initialized.
+2024-08-24 17:12:44.4711 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 17:12:44.5045 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 17:12:44.5188 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 17:12:44.5353 Info Configuration initialized.
+2024-08-24 17:14:06.3607 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 17:14:06.4055 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 17:14:06.4259 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 17:14:06.4503 Info Configuration initialized.
+2024-08-24 17:16:33.4634 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 17:16:33.5328 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 17:16:33.5653 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 17:16:33.6017 Info Configuration initialized.
+2024-08-24 17:17:25.2907 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 17:17:25.3402 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 17:17:25.3743 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 17:17:25.4213 Info Configuration initialized.
+2024-08-24 17:23:56.9170 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-24 17:23:56.9488 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-24 17:23:56.9488 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-24 17:23:56.9846 Info Configuration initialized.
+2024-08-26 17:13:38.8994 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-26 17:13:38.9519 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-26 17:13:39.0080 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-26 17:13:39.0843 Info Configuration initialized.
+2024-08-26 17:14:53.3011 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-26 17:14:53.3352 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-26 17:14:53.3467 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\evren\OneDrive\Masaüstü\Staj Proje\WebApplication1\nlog.config
+2024-08-26 17:14:53.3596 Info Configuration initialized.

@@ -1,0 +1,38 @@
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\bin\Debug\net8.0\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\bin\Debug\net8.0\Repositories.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\bin\Debug\net8.0\Services.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\bin\Debug\net8.0\Entities.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\bin\Debug\net8.0\Services.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\bin\Debug\net8.0\Repositories.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\Users\evren\OneDrive\Masaüstü\Eğitim2\.Net Core Web Api 2\Güvenlik1\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\bin\Debug\net8.0\Entities.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\bin\Debug\net8.0\Repositories.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\bin\Debug\net8.0\Services.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\bin\Debug\net8.0\Entities.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\bin\Debug\net8.0\Services.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\bin\Debug\net8.0\Repositories.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\ref\Presentation.dll
