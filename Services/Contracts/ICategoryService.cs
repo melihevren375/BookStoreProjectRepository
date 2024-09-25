@@ -7,8 +7,8 @@ namespace Services.Contracts
     public interface ICategoryService
     {
         Task CreateCategoryAsync(CategoryDtoForInsertion categoryDtoForInsertion);
-        Task UpdateCategoryAsync(int id, bool trackChanges, CategoryDtoForUpdate categoryDtoForUpdate);
-        Task DeleteCategoryAsync(int id, bool trackChanges);
+        Task UpdateCategoryAsync(Guid id, bool trackChanges, CategoryDtoForUpdate categoryDtoForUpdate);
+        Task DeleteCategoryAsync(Guid id, bool trackChanges);
         Task<(IEnumerable<ExpandoObject> categoryDtosForRead, MetaData metaData)> GetAllCategoriesAsync(CategoryParams categoryParams);
     }
 }

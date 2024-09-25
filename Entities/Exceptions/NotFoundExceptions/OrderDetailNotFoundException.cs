@@ -2,7 +2,7 @@
 {
     public class OrderDetailNotFoundException:NotFoundException
     {
-        public OrderDetailNotFoundException(int id):base($"OrderDetail with ID number {id} was not found ")
+        public OrderDetailNotFoundException(Guid id):base($"OrderDetail with ID number {id} was not found ")
         {
             
         }

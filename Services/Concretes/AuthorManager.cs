@@ -28,7 +28,7 @@ public class AuthorManager : IAuthorService
         _authorRepository.CreateAuthor(author);
     }
 
-    public async Task DeleteAuthorAsync(int id, bool trackChanges)
+    public async Task DeleteAuthorAsync(Guid id, bool trackChanges)
     {
         var author = await CheckAndReturnAuthor(id, trackChanges);
 
@@ -46,7 +46,7 @@ public class AuthorManager : IAuthorService
         return (authorDtosForRead: dataShaper, metaData: pagedListResults.MetaData);
     }
 
-    public async Task UpdateAuthorAsync(int id, bool trackChanges, AutherDtoForUpdate autherDtoForUpdate)
+    public async Task UpdateAuthorAsync(Guid id, bool trackChanges, AutherDtoForUpdate autherDtoForUpdate)
     {
         var author = await CheckAndReturnAuthor(id, trackChanges);
 
@@ -55,7 +55,7 @@ public class AuthorManager : IAuthorService
         _authorRepository.UpdateAuthor(author);
     }
 
-    private async Task<Author> CheckAndReturnAuthor(int id, bool trackChanges)
+    private async Task<Author> CheckAndReturnAuthor(Guid id, bool trackChanges)
     {
         var author = await _authorRepository.GetAuthorByConditionAsync(trackChanges, a => a.Id.Equals(id));
 

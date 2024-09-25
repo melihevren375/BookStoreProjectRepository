@@ -24,7 +24,7 @@ public class EmailCodeManager : IEmailCodeService
         _emailCodeRepository.CreateEmailCode(emailCode);
     }
 
-    public async Task<EmailCodeDtoForRead> GetEmailCodeByCustomerIdAsync(int id, bool trackChanges)
+    public async Task<EmailCodeDtoForRead> GetEmailCodeByCustomerIdAsync(Guid id, bool trackChanges)
     {
         var emailCode = await _emailCodeRepository.
             GetEmailCodeByConditionAsync(ec => ec.CustomerId.Equals(id), trackChanges);

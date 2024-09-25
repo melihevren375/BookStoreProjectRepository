@@ -40,7 +40,6 @@ builder.Services.ConfigureAuthorsService();
 builder.Services.ConfigureCategoriesRepository();
 builder.Services.ConfigureCategoriesService();
 builder.Services.ConfigureCustomersRepository();
-builder.Services.ConfigureHttpCacheHeaders();
 builder.Services.ConfigureCustomersService();
 builder.Services.ConfigureOrdersRepository();
 builder.Services.ConfigureOrdersService();
@@ -87,7 +86,6 @@ app.UseIpRateLimiting();
 app.UseCors("CorsPolicy");
 
 app.UseResponseCaching();
-app.UseHttpCacheHeaders();
 
 app.UseAuthorization();
 

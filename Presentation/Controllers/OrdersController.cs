@@ -1,5 +1,6 @@
 ﻿using Entities.DataTransferObjects.OrderDataTransferObjects;
 using Entities.RequestFeatures;
+using Marvin.Cache.Headers;
 using Microsoft.AspNetCore.Mvc;
 using Presentation.ActionFilters;
 using Services.Contracts;
@@ -19,21 +20,23 @@ namespace Presentation.Controllers
             _orderService = orderService;
         }
 
-        [HttpDelete("orders/{orderid:int}")]
-        public async Task<IActionResult> DeleteOrderAsync([FromRoute(Name = "orderid")] int id)
+        [HttpDelete("DeleteOrderAsync/{orderid:Guid}")]
+        public async Task<IActionResult> DeleteOrderAsync([FromRoute(Name = "orderid")] Guid id)
         {
             await _orderService.DeleteOrderAsync(id, true);
             return NoContent();
         }
 
-        [HttpOptions("orders")]
+        [HttpOptions("OptionsOrders")]
         public IActionResult OptionsOrders()
         {
             Response.Headers.Add("Allow", "GET,PUT,HEAD,DELETE,POST");
             return Ok();
         }
 
-        [HttpHead("orders")]
+        [HttpHead("GetAllOrdersAsyncWithHead")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> GetAllOrdersAsyncWithHead([FromQuery] OrderParams orderParams)
         {
             var pagedListResults = await _orderService.GetAllOrdersAsync(orderParams);
@@ -42,7 +45,7 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPost("orders")]
+        [HttpPost("CreateOrderAsync")]
         public async Task<IActionResult> CreateOrderAsync([FromBody] OrderDtoForInsertion orderDtoForInsertion)
         {
             await _orderService.CreateOrderAsync(orderDtoForInsertion);
@@ -50,35 +53,43 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPut("orders/{id:int}")]
-        public async Task<IActionResult> UpdateOrderAsync([FromRoute(Name = "id")] int id, [FromBody] OrderDtoForUpdate orderDtoForUpdate)
+        [HttpPut("UpdateOrderAsync/{id:int}")]
+        public async Task<IActionResult> UpdateOrderAsync([FromRoute(Name = "id")] Guid id, [FromBody] OrderDtoForUpdate orderDtoForUpdate)
         {
             await _orderService.UpdateOrderAsync(id, true, orderDtoForUpdate);
             return NoContent();
         }
 
-        [HttpGet("orders")]
+        [HttpGet("GetAllOrders")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> GetAllOrders([FromQuery] OrderParams orderParams)
         {
             var pagedListResults = await _orderService.GetAllOrdersAsync(orderParams);
             return Ok(pagedListResults.orderDtosForRead);
         }
 
-        [HttpGet("Daily total order count")]
+        [HttpGet("DailyTotalOrderCountAsync")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> DailyTotalOrderCountAsync()
         {
             var result=await _orderService.DailyTotalOrderCountAsync();
             return Ok(result);
         }
 
-        [HttpGet("Weekly total order count")]
+        [HttpGet("WeeklyTotalOrderCountAsync")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> WeeklyTotalOrderCountAsync()
         {
             var result = await _orderService.WeeklyTotalOrderCountAsync();
             return Ok(result);
         }
 
-        [HttpGet("Monthly total order count")]
+        [HttpGet("MonthlyTotalOrderCount")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> MonthlyTotalOrderCount()
         {
             var result = await _orderService.MounthlyTotalOrderCountAsync();

@@ -2,7 +2,7 @@
 {
     public class CategoryNotFoundException : NotFoundException
     {
-        public CategoryNotFoundException(int id) : base($"{id} numaralı category bulunamadı.")
+        public CategoryNotFoundException(Guid id) : base($"{id} numaralı category bulunamadı.")
         {
         }
     }

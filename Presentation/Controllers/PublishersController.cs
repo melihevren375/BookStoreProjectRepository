@@ -1,5 +1,6 @@
 ﻿using Entities.DataTransferObjects.PublisherDataTransferObjects;
 using Entities.RequestFeatures;
+using Marvin.Cache.Headers;
 using Microsoft.AspNetCore.Mvc;
 using Presentation.ActionFilters;
 using Services.Contracts;
@@ -19,21 +20,23 @@ namespace Presentation.Controllers
             _publisherService = publisherService;
         }
 
-        [HttpDelete("publishers/{publisherid:int}")]
-        public async Task<IActionResult> DeletePublisherAsync([FromRoute(Name = "publisherid")] int id)
+        [HttpDelete("DeletePublisherAsync/{publisherid:Guid}")]
+        public async Task<IActionResult> DeletePublisherAsync([FromRoute(Name = "publisherid")] Guid id)
         {
             await _publisherService.DeletePublisherAsync(id, true);
             return NoContent();
         }
 
-        [HttpOptions("publishers")]
+        [HttpOptions("OptionsPublishers")]
         public IActionResult OptionsPublishers()
         {
             Response.Headers.Add("Allow", "GET,PUT,HEAD,DELETE,POST");
             return Ok();
         }
 
-        [HttpHead("publishers")]
+        [HttpHead("GetAllPublishersAsyncWithHead")]
+        [HttpCacheValidation(MustRevalidate = true)] 
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })] 
         public async Task<IActionResult> GetAllPublishersAsyncWithHead([FromQuery] PublisherParams publisherParams)
         {
             var pagedListResults = await _publisherService.GetAllPublishersAsync(publisherParams);
@@ -42,7 +45,7 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPost("publishers")]
+        [HttpPost("CreatePublisherAsync")]
         public async Task<IActionResult> CreatePublisherAsync([FromBody] PublisherDtoForInsertion publisherDtoForInsertion)
         {
             await _publisherService.CreatePublisherAsync(publisherDtoForInsertion);
@@ -50,14 +53,16 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPut("publihers/{id:int}")]
-        public async Task<IActionResult> UpdatePublisherAsync([FromRoute(Name = "id")] int id, [FromBody] PublisherDtoForUpdate publisherDtoForUpdate)
+        [HttpPut("UpdatePublisherAsync/{id:int}")]
+        public async Task<IActionResult> UpdatePublisherAsync([FromRoute(Name = "id")] Guid id, [FromBody] PublisherDtoForUpdate publisherDtoForUpdate)
         {
             await _publisherService.UpdatePublisherAsync(id, true, publisherDtoForUpdate);
             return NoContent();
         }
 
-        [HttpGet("publishers")]
+        [HttpGet("GetAllPublishers")]
+        [HttpCacheValidation(MustRevalidate =true)]
+        [ResponseCache(Duration =300,Location =ResponseCacheLocation.Any,VaryByQueryKeys = new[] {"*" })]
         public async Task<IActionResult> GetAllPublishers([FromQuery] PublisherParams publisherParams)
         {
             var pagedListResults = await _publisherService.GetAllPublishersAsync(publisherParams);

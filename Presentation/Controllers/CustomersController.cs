@@ -1,5 +1,6 @@
 ﻿using Entities.DataTransferObjects.CustomerDataTransferObjects;
 using Entities.RequestFeatures;
+using Marvin.Cache.Headers;
 using Microsoft.AspNetCore.Mvc;
 using Presentation.ActionFilters;
 using Services.Contracts;
@@ -19,21 +20,23 @@ namespace Presentation.Controllers
             _customerService = customerService;
         }
 
-        [HttpDelete("customers/{id:int}")]
-        public async Task<IActionResult> DeleteCustomerAsync([FromRoute(Name = "id")] int id)
+        [HttpDelete("DeleteCustomerAsync/{id:Guid}")]
+        public async Task<IActionResult> DeleteCustomerAsync([FromRoute(Name = "id")] Guid id)
         {
             await _customerService.DeleteCustomerAsync(id, true);
             return NoContent();
         }
 
-        [HttpOptions("customers")]
+        [HttpOptions("OptionsCustomers")]
         public IActionResult OptionsCustomers()
         {
             Response.Headers.Add("Allow", "GET,PUT,HEAD,DELETE,POST");
             return Ok();
         }
 
-        [HttpHead("customers")]
+        [HttpHead("GetAllCustomersAsyncWithHead")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> GetAllCustomersAsyncWithHead([FromQuery] CustomerParams customerParams)
         {
             var pagedListResults = await _customerService.GetAllCustomersAsync(customerParams);
@@ -42,7 +45,7 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPost("customers")]
+        [HttpPost("CreateCustomerAsync")]
         public async Task<IActionResult> CreateCustomerAsync([FromBody] CustomerDtoForInsertion customerDtoForInsertion)
         {
             await _customerService.CreateCustomerAsync(customerDtoForInsertion);
@@ -50,28 +53,30 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPut("customers/{id:int}")]
-        public async Task<IActionResult> UpdateCustomerAsync([FromRoute(Name = "id")] int id, [FromBody] CustomerDtoForUpdate customerDtoForUpdate)
+        [HttpPut("UpdateCustomerAsync/{id:Guid}")]
+        public async Task<IActionResult> UpdateCustomerAsync([FromRoute(Name = "id")] Guid id, [FromBody] CustomerDtoForUpdate customerDtoForUpdate)
         {
             await _customerService.UpdateCustomerAsync(id, true, customerDtoForUpdate);
             return NoContent();
         }
 
-        [HttpGet("customers")]
+        [HttpGet("GetAllCustomers")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> GetAllCustomers([FromQuery] CustomerParams customerParams)
         {
             var pagedListResults = await _customerService.GetAllCustomersAsync(customerParams);
             return Ok(pagedListResults.customerDtosForRead);
         }
 
-        [HttpGet("customerSignInControl")]
+        [HttpGet("SignInControlAsync")]
         public async Task<IActionResult> SignInControlAsync([FromQuery] CustomerDtoForSignInControl customerDtoForSignInControl)
         {
             var result = await _customerService.SignInControlAsync(customerDtoForSignInControl);
             return Ok(result);
         }
 
-        [HttpGet("customerss")]
+        [HttpGet("EmailControlAsync")]
         public async Task<IActionResult> EmailControlAsync([FromQuery] string email)
         {
             var result = _customerService.EmailControlAsync(email).Result;
@@ -79,7 +84,7 @@ namespace Presentation.Controllers
             return Ok(result);
         }
 
-        [HttpPut("ChangePassword")]
+        [HttpPut("ChangePasswordAsync")]
         public async Task<IActionResult> ChangePasswordAsync([FromBody] CustomerDtoForChangePassword customerDtoForChangePassword)
         {
             await _customerService.ChangedPasswordAsync(customerDtoForChangePassword, true);

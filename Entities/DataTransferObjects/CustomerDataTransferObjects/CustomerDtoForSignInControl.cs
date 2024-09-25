@@ -4,10 +4,10 @@ namespace Entities.DataTransferObjects.CustomerDataTransferObjects
 {
     public record CustomerDtoForSignInControl
     {
-        [Required]
-        public string Email { get; set; }
+        [Required(ErrorMessage ="Email is a required field. It cannot be empty.")]
+        public string Email { get; init; }
 
-        [Required]
-        public string Password { get; set; }
+        [Required(ErrorMessage = "Password is a required field. It cannot be empty.")]
+        public string Password { get; init; }
     }
 }

@@ -20,21 +20,23 @@ namespace Presentation.Controllers
             _categoryService = categoryService;
         }
 
-        [HttpDelete("categories/{id:int}")]
-        public async Task<IActionResult> DeleteCategoryAsync([FromRoute(Name = "id")] int id)
+        [HttpDelete("DeleteCategoryAsync/{id:Guid}")]
+        public async Task<IActionResult> DeleteCategoryAsync([FromRoute(Name = "id")] Guid id)
         {
             await _categoryService.DeleteCategoryAsync(id, true);
             return NoContent();
         }
 
-        [HttpOptions("categories")]
+        [HttpOptions("OptionsCategories")]
         public IActionResult OptionsCategories()
         {
             Response.Headers.Add("Allow", "GET,PUT,HEAD,DELETE,POST");
             return Ok();
         }
 
-        [HttpHead("categories")]
+        [HttpHead("GetAllCategoriesAsyncWithHead")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> GetAllCategoriesAsyncWithHead([FromQuery] CategoryParams categoryParams)
         {
             var pagedListResults = await _categoryService.GetAllCategoriesAsync(categoryParams);
@@ -43,7 +45,7 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPost("categories")]
+        [HttpPost("CreateCategoryAsync")]
         public async Task<IActionResult> CreateCategoryAsync([FromBody] CategoryDtoForInsertion categoryDtoForInsertion)
         {
             await _categoryService.CreateCategoryAsync(categoryDtoForInsertion);
@@ -51,15 +53,16 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPut("categories/{id:int}")]
-        public async Task<IActionResult> UpdateCategoryAsync([FromRoute(Name = "id")] int id, [FromBody] CategoryDtoForUpdate categoryDtoForUpdate)
+        [HttpPut("UpdateCategoryAsync/{id:Guid}")]
+        public async Task<IActionResult> UpdateCategoryAsync([FromRoute(Name = "id")] Guid id, [FromBody] CategoryDtoForUpdate categoryDtoForUpdate)
         {
             await _categoryService.UpdateCategoryAsync(id, true, categoryDtoForUpdate);
             return NoContent();
         }
 
-        [HttpGet("categories")]
-        [HttpCacheExpiration(CacheLocation = CacheLocation.Public, MaxAge = 90)]
+        [HttpGet("GetAllCategories")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> GetAllCategories([FromQuery] CategoryParams categoryParams)
         {
             var pagedListResults = await _categoryService.GetAllCategoriesAsync(categoryParams);

@@ -16,8 +16,8 @@ public class EmailCodesController:ControllerBase
         _emailCodeService = emailCodeService;
     }
 
-    [HttpGet("getemailcode/{id}:int")]  
-    public async Task<IActionResult> GetEmailCodeAsync([FromRoute(Name ="id")]int id)
+    [HttpGet("GetEmailCodeAsync/{id:Guid}")]  
+    public async Task<IActionResult> GetEmailCodeAsync([FromRoute(Name ="id")] Guid id)
     {
         var emailCode = await _emailCodeService.
             GetEmailCodeByCustomerIdAsync(id,false);

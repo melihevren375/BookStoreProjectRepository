@@ -1,5 +1,6 @@
 ﻿using Entities.DataTransferObjects.AutherDataTransferObjects;
 using Entities.RequestFeatures;
+using Marvin.Cache.Headers;
 using Microsoft.AspNetCore.Mvc;
 using Presentation.ActionFilters;
 using Services.Contracts;
@@ -19,7 +20,9 @@ namespace Presentation.Controllers
             _authorService = authorService;
         }
 
-        [HttpGet("authors")]
+        [HttpGet("GetAllAuthorsAsync")]
+        [HttpCacheValidation(MustRevalidate = true)]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
         public async Task<IActionResult> GetAllAuthorsAsync([FromQuery] AuthorParams authorParams)
         {
             var pagedListReults = await _authorService.GetAllAuthorsAsync(authorParams);
@@ -29,14 +32,16 @@ namespace Presentation.Controllers
             return Ok(authorDtos);
         }
 
-        [HttpDelete("authors/{id:int}")]
-        public async Task<IActionResult> DeleteAuthorAsync([FromRoute(Name = "id")] int id)
+        [HttpDelete("DeleteAuthorAsync/{id:Guid}")]
+        public async Task<IActionResult> DeleteAuthorAsync([FromRoute(Name = "id")] Guid id)
         {
             await _authorService.DeleteAuthorAsync(id, true);
             return NoContent();
         }
 
-        [HttpHead("authors")]
+        [HttpHead("GetAuthorsWithHead")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> GetAuthorsWithHead([FromQuery] AuthorParams authorParams)
         {
             var pagedListResults = await _authorService.GetAllAuthorsAsync(authorParams);
@@ -45,7 +50,7 @@ namespace Presentation.Controllers
             return Ok(metaData);
         }
 
-        [HttpOptions("authors")]
+        [HttpOptions("OptionsAuthors")]
         public IActionResult OptionsAuthors()
         {
             Response.Headers.Add("Allow", "GET,PUT,HEAD,OPTIONS,DELETE,POST");
@@ -53,7 +58,7 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPost("authors")]
+        [HttpPost("CreateAuthor")]
         public async Task<IActionResult> CreateAuthor([FromBody] AutherDtoForInsertion autherDtoForInsertion)
         {
             await _authorService.CreateAuthorAsync(autherDtoForInsertion);
@@ -61,8 +66,8 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPut("authors/{id:int}")]
-        public async Task<IActionResult> UpdateAuthorAsync([FromRoute(Name = "id")] int id, [FromBody] AutherDtoForUpdate autherDtoForUpdate)
+        [HttpPut("UpdateAuthorAsync/{Guid:int}")]
+        public async Task<IActionResult> UpdateAuthorAsync([FromRoute(Name = "id")] Guid id, [FromBody] AutherDtoForUpdate autherDtoForUpdate)
         {
             await _authorService.UpdateAuthorAsync(id, true, autherDtoForUpdate);
             return NoContent();

@@ -28,7 +28,7 @@ public class PublisherManager : IPublisherService
         _publisherRepository.CreatePublisher(publisher);
     }
 
-    public async Task DeletePublisherAsync(int id, bool trackChanges)
+    public async Task DeletePublisherAsync(Guid id, bool trackChanges)
     {
         var publisher = await CheckhAndReturnPublisher(id, trackChanges);
         _publisherRepository.DeletePublisher(publisher);
@@ -43,14 +43,14 @@ public class PublisherManager : IPublisherService
         return (publiherDtosRead: shape, metaData: pagedListResults.MetaData);
     }
 
-    public async Task UpdatePublisherAsync(int id, bool trackChanges, PublisherDtoForUpdate publisherDtoForUpdate)
+    public async Task UpdatePublisherAsync(Guid id, bool trackChanges, PublisherDtoForUpdate publisherDtoForUpdate)
     {
         var publisher = await CheckhAndReturnPublisher(id, trackChanges);
         _mapper.Map(publisherDtoForUpdate, publisher);
         _publisherRepository.UpdatePublisher(publisher);
     }
 
-    private async Task<Publisher> CheckhAndReturnPublisher(int id, bool trackChanges)
+    private async Task<Publisher> CheckhAndReturnPublisher(Guid id, bool trackChanges)
     {
         var publisher = await _publisherRepository.
             GetPublisherByConditionAsync(trackChanges, p => p.Id.Equals(id));

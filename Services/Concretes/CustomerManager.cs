@@ -51,7 +51,7 @@ namespace Services.Concretes
             _customerRepository.CreateCustomer(customer);
         }
 
-        public async Task DeleteCustomerAsync(int id, bool trackChanges)
+        public async Task DeleteCustomerAsync(Guid id, bool trackChanges)
         {
             var customer = await CheckAndReturnCustomer(id, trackChanges);
             _customerRepository.DeleteCustomer(customer);
@@ -70,7 +70,7 @@ namespace Services.Concretes
                 var customer = await _customerRepository
                 .GetCustomerByConditionAsync(true, c => c.Email.Equals(email));
 
-                var customerId = customer.Id; // Artık customer nesnesinden ID alabilirsiniz
+                var customerId = customer.Id; 
 
 
                 code = await RandomEmailNumberAsync(customerId);
@@ -98,14 +98,14 @@ namespace Services.Concretes
             return result;
         }
 
-        public async Task UpdateCustomerAsync(int id, bool trackChanges, CustomerDtoForUpdate customerDtoForUpdate)
+        public async Task UpdateCustomerAsync(Guid id, bool trackChanges, CustomerDtoForUpdate customerDtoForUpdate)
         {
             var customer = await CheckAndReturnCustomer(id, trackChanges);
             _mapper.Map(customerDtoForUpdate, customer);
             _customerRepository.UpdateCustomer(customer);
         }
 
-        private async Task<Customer> CheckAndReturnCustomer(int id, bool trackChanges)
+        private async Task<Customer> CheckAndReturnCustomer(Guid id, bool trackChanges)
         {
             var customer = await _customerRepository.GetCustomerByConditionAsync(trackChanges, c => c.Id.Equals(id));
 

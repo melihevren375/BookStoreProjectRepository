@@ -7,7 +7,6 @@ using Entities.DataTransferObjects.OrderDataTransferObjects;
 using Entities.DataTransferObjects.OrderDetailDataTransferObjects;
 using Entities.DataTransferObjects.OrderDetailsDataTransferObjects;
 using Entities.DataTransferObjects.PublisherDataTransferObjects;
-using Marvin.Cache.Headers;
 using Microsoft.EntityFrameworkCore;
 using Presentation.ActionFilters;
 using Repositories.Concretes.EfCore;
@@ -67,14 +66,6 @@ namespace WebApplication1.Extensions
 
         public static void ConfigureResponseCaching(this IServiceCollection services) =>
           services.AddResponseCaching();
-        public static void ConfigureHttpCacheHeaders(this IServiceCollection services)
-        {
-            services.AddHttpCacheHeaders(options =>
-            {
-                options.CacheLocation = Marvin.Cache.Headers.CacheLocation.Private; 
-                options.MaxAge = 0;
-            });
-        }
 
         public static void ConfigureRateLimit(this IServiceCollection services)
         {

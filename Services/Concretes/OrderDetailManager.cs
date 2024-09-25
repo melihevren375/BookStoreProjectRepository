@@ -66,7 +66,7 @@ namespace Services.Concretes
 
         }
 
-        public async Task DeleteOrderDetailAsync(int id, bool trackChanges)
+        public async Task DeleteOrderDetailAsync(Guid id, bool trackChanges)
         {
             var orderDetail = await CheckAndReturnOrderDetail(id, trackChanges);
 
@@ -104,7 +104,7 @@ namespace Services.Concretes
             return (orderDetailDtosForDetails: dataShaper, metaData: results.MetaData);
         }
 
-        public async Task UpdateOrderDetailAsync(int id, bool trackChanges, OrderDetailForUpdate orderDetailDtoForUpdate)
+        public async Task UpdateOrderDetailAsync(Guid id, bool trackChanges, OrderDetailForUpdate orderDetailDtoForUpdate)
         {
             var orderDetail = await CheckAndReturnOrderDetail(id, trackChanges);
 
@@ -113,7 +113,7 @@ namespace Services.Concretes
             _orderDetailRepository.UpdateOrderDetail(orderDetail);
         }
 
-        private async Task<OrderDetail> CheckAndReturnOrderDetail(int id, bool trackChanges)
+        private async Task<OrderDetail> CheckAndReturnOrderDetail(Guid id, bool trackChanges)
         {
             var orderDetail = await _orderDetailRepository.GetOrderDetailByConditionAsync(trackChanges, a => a.Id.Equals(id));
 

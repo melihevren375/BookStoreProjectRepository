@@ -8,8 +8,8 @@ namespace Services.Contracts
     public interface IOrderService
     {
         Task CreateOrderAsync(OrderDtoForInsertion orderDtoForInsertion);
-        Task UpdateOrderAsync(int id, bool trackChanges, OrderDtoForUpdate orderDtoForUpdate);
-        Task DeleteOrderAsync(int id, bool trackChanges);
+        Task UpdateOrderAsync(Guid id, bool trackChanges, OrderDtoForUpdate orderDtoForUpdate);
+        Task DeleteOrderAsync(Guid id, bool trackChanges);
         Task<int> DailyTotalOrderCountAsync();
         Task<int> WeeklyTotalOrderCountAsync();
         Task<int> MounthlyTotalOrderCountAsync();

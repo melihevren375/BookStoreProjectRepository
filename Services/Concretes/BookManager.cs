@@ -36,7 +36,7 @@ namespace Services.Concretes
             _bookRepository.CreateBook(book);
         }
 
-        public async Task DeleteBookAsync(int id, bool trackChanges)
+        public async Task DeleteBookAsync(Guid id, bool trackChanges)
         {
             var book = await CheckAndReturnBookAsync(id, trackChanges);
             _bookRepository.DeleteBook(book);
@@ -84,14 +84,14 @@ namespace Services.Concretes
             return results;
         }
 
-        public async Task UpdateBookAsync(int id, bool trackChanges, BookDtoForUpdate bookDtoForUpdate)
+        public async Task UpdateBookAsync(Guid id, bool trackChanges, BookDtoForUpdate bookDtoForUpdate)
         {
             var book = await CheckAndReturnBookAsync(id, trackChanges);
             _mapper.Map(bookDtoForUpdate, book);
             _bookRepository.UpdateBook(book);
         }
 
-        private async Task<Book> CheckAndReturnBookAsync(int id, bool trackChanges)
+        private async Task<Book> CheckAndReturnBookAsync(Guid id, bool trackChanges)
         {
             var book = await _bookRepository.
                 GetEntitiesByCondition(trackChanges, b => b.Id.Equals(id)).

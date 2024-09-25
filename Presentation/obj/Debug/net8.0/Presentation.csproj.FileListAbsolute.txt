@@ -36,3 +36,23 @@ C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\Pres
 C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\refint\Presentation.dll
 C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\Presentation.pdb
 C:\Users\evren\OneDrive\Masaüstü\Staj Proje\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\bin\Debug\net8.0\Entities.dll
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\bin\Debug\net8.0\Repositories.dll
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\bin\Debug\net8.0\Services.dll
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\bin\Debug\net8.0\Entities.pdb
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\bin\Debug\net8.0\Services.pdb
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\bin\Debug\net8.0\Repositories.pdb
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\Users\Casper\Desktop\BookStoreApiProject\Presentation\obj\Debug\net8.0\ref\Presentation.dll

@@ -2,7 +2,7 @@
 {
     public class AuthorNotFoundException:NotFoundException
     {
-        public AuthorNotFoundException(int id):base($"Author with ID number {id} was not found ")
+        public AuthorNotFoundException(Guid id):base($"Author with ID number {id} was not found ")
         {
             
         }

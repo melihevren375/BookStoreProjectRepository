@@ -1,5 +1,6 @@
 ﻿using Entities.DataTransferObjects.OrderDetailsDataTransferObjects;
 using Entities.RequestFeatures;
+using Marvin.Cache.Headers;
 using Microsoft.AspNetCore.Mvc;
 using Presentation.ActionFilters;
 using Services.Contracts;
@@ -19,21 +20,23 @@ namespace Presentation.Controllers
             _orderDetailService = orderDetailService;
         }
 
-        [HttpDelete("orderDetails/{orderdetailid:int}")]
-        public async Task<IActionResult> DeleteOrderDetailAsync([FromRoute(Name = "orderdetailid")] int id)
+        [HttpDelete("DeleteOrderDetailAsync/{orderdetailid:Guid}")]
+        public async Task<IActionResult> DeleteOrderDetailAsync([FromRoute(Name = "orderdetailid")] Guid id)
         {
             await _orderDetailService.DeleteOrderDetailAsync(id, true);
             return NoContent();
         }
 
-        [HttpOptions("orderDetails")]
+        [HttpOptions("OptionsOrderDetails")]
         public IActionResult OptionsOrderDetails()
         {
             Response.Headers.Add("Allow", "GET,PUT,HEAD,DELETE,POST");
             return Ok();
         }
 
-        [HttpHead("orderDetails")]
+        [HttpHead("GetAllOrderDetailsAsyncWithHead")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> GetAllOrderDetailsAsyncWithHead([FromQuery] OrderDetailParams orderDetailParams)
         {
             var pagedListResults = await _orderDetailService.GetAllOrderDetailsAsync(orderDetailParams);
@@ -42,7 +45,7 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPost("orderDetails")]
+        [HttpPost("CreateOrderDetailAsync")]
         public async Task<IActionResult> CreateOrderDetailAsync([FromBody] OrderDetailForInsertion orderDetailForInsertion)
         {
             await _orderDetailService.CreateOrderDetailAsync(orderDetailForInsertion);
@@ -50,21 +53,25 @@ namespace Presentation.Controllers
         }
 
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPut("orderDetails/{id:int}")]
-        public async Task<IActionResult> UpdateOrderDetailAsync([FromRoute(Name = "id")] int id, [FromBody] OrderDetailForUpdate orderDetailForUpdate)
+        [HttpPut("UpdateOrderDetailAsync/{id:Guid}")]
+        public async Task<IActionResult> UpdateOrderDetailAsync([FromRoute(Name = "id")] Guid id, [FromBody] OrderDetailForUpdate orderDetailForUpdate)
         {
             await _orderDetailService.UpdateOrderDetailAsync(id, true, orderDetailForUpdate);
             return NoContent();
         }
 
-        [HttpGet("orderDetails")]
+        [HttpGet("GetAllOrderDetails")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> GetAllOrderDetails([FromQuery] OrderDetailParams orderDetailParams)
         {
             var pagedListResults = await _orderDetailService.GetAllOrderDetailsAsync(orderDetailParams);
             return Ok(pagedListResults.orderDetailDtosForRead);
         }
 
-        [HttpGet("orderDetailsWithDetails")]
+        [HttpGet("GetOrderDetailsWithDetailsAsync")]
+        [ResponseCache(Duration = 300, Location = ResponseCacheLocation.Any, VaryByQueryKeys = new[] { "*" })]
+        [HttpCacheValidation(MustRevalidate = true)]
         public async Task<IActionResult> GetOrderDetailsWithDetailsAsync([FromQuery] OrderDetailParams orderDetailParams)
         {
             var results = await _orderDetailService.GetAllOrderDetailsWithDetailsAsync(orderDetailParams);

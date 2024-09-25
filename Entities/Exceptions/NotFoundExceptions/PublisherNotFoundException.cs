@@ -2,7 +2,7 @@
 {
     public class PublisherNotFoundException:NotFoundException
     {
-        public PublisherNotFoundException(int id):base($"Publisher with ID number {id} was not found ")
+        public PublisherNotFoundException(Guid id):base($"Publisher with ID number {id} was not found ")
         {
             
         }

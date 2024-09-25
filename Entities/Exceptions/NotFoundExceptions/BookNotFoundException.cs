@@ -2,7 +2,7 @@
 {
     public sealed class BookNotFoundException : NotFoundException
     {
-        public BookNotFoundException(int id) : base($"{id} numaralı kitap bulunamadı!")
+        public BookNotFoundException(Guid id) : base($"{id} numaralı kitap bulunamadı!")
         {
         }
     }

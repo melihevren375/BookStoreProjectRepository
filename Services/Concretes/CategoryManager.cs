@@ -28,7 +28,7 @@ namespace Services.Concretes
             _categoryRepository.CreateCategory(category);
         }
 
-        public async Task DeleteCategoryAsync(int id, bool trackChanges)
+        public async Task DeleteCategoryAsync(Guid id, bool trackChanges)
         {
             var category = await CheckAndReturnCategory(id, trackChanges);
             _categoryRepository.DeleteCategory(category);
@@ -42,14 +42,14 @@ namespace Services.Concretes
             return (categoryDtosForRead: dataShaper, metaData: pagedListResults.MetaData);
         }
 
-        public async Task UpdateCategoryAsync(int id, bool trackChanges, CategoryDtoForUpdate categoryDtoForUpdate)
+        public async Task UpdateCategoryAsync(Guid id, bool trackChanges, CategoryDtoForUpdate categoryDtoForUpdate)
         {
             var category = await CheckAndReturnCategory(id, trackChanges);
             _mapper.Map(categoryDtoForUpdate, category);
             _categoryRepository.UpdateCategory(category);
         }
 
-        private async Task<Category> CheckAndReturnCategory(int id, bool trackChanges)
+        private async Task<Category> CheckAndReturnCategory(Guid id, bool trackChanges)
         {
             var category = await _categoryRepository.GetOneCategoryByConditionAsync(c => c.Id.Equals(id), trackChanges);
 
